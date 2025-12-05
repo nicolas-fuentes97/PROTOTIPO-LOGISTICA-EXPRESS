@@ -1,7 +1,4 @@
 
-  # Logistics Express Dashboard Design
-
-  This is a code bundle for Logistics Express Dashboard Design. The original project is available at https://www.figma.com/design/EsSK3f5nYvZFHmKKg48FkU/Logistics-Express-Dashboard-Design.
 
   ## Running the code
 
